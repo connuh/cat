@@ -17,7 +17,7 @@ console.log(await Cat.getCat()); //> [ "<url>" ]
 console.log(await Cat.getCat({ breed: breeds[Math.floor(Math.random() * breeds.length)] })); //> [ "<url>" ]
 
 /* Fetch a multiple bengal cats from a specific page */
-console.log(await Cat.getCat({ breed: "beng", limit: 10, page: 2 })); //> [ "<url>" ] (lenght -> 10)
+console.log(await Cat.getCat({ breed: "beng", limit: 10, page: 2 })); //> [ "<url>" ] (length -> 10)
 ```
 
 ### Contributions
