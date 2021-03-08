@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=connuh&repo=cat&cache_seconds=86400&theme=default">
+</p>
+
 # Cat - an API wrapper. 😺
 ### API Wrapper for [TheCatAPI.com](https://thecatapi.com) written in [Deno](https://deno.land)!
 ---
