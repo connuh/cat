@@ -3,7 +3,7 @@
     Cat - an API wrapper. 😺
 </h1>
 <p align="center">
-	Cat is an API wrapper that allows you to easily generate pictures of cats (Powered b TheCatAPI).
+	Cat is an API wrapper that allows you to easily generate pictures of cats (Powered by TheCatAPI).
 </p>
 
 <p align="center">
